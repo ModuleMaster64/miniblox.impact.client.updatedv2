@@ -7,4 +7,4 @@ REMEMBER TO CHANGE VERSIONFILE
 
 I am archiving this script.
 
-i will be updating it on ProgMEM-CC's script
+i will be updating it on ProgMEM-CC's script :D
